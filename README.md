@@ -34,5 +34,9 @@ THEN the saved events persist
   //
   // TODO: Add code to display the current date in the header of the page.
 # Screenshots
+<img src="./Assets/scs1.jpg" alt = "1screen">
+<img src="./Assets/scs2.jpg" alt = "2screen">
 
 # Links
+Github: https://github.com/DewYourWorst/work-day-scheduler
+Deployed: https://dewyourworst.github.io/work-day-scheduler/Develop/index.html
